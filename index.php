@@ -132,7 +132,7 @@
                         <button type="submit" class="btn btn-dark">Cadastrar</button>
                     </div>
                 </div>
-                </
+                
             </div>
         </div>
     </div>
